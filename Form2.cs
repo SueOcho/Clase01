@@ -21,7 +21,7 @@ namespace ProyWinc_Sem01
         {
             if(lstItem.Items.IndexOf(txtItem.Text.Trim())>=0| txtItem.Text.Trim()==String.Empty)
             {
-                MessageBox.Show("El elemento ya existe o es un a cadena en blanco", "Error",
+                MessageBox.Show("El elemento ya existe o es un a cadena en negro", "Error",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtItem.SelectAll();//selecciona todo el texto de un textbox
             }

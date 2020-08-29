@@ -1,0 +1,25 @@
+[1mdiff --git a/Form2.cs b/Form2.cs[m
+[1mindex a69cc81..caedafe 100644[m
+[1m--- a/Form2.cs[m
+[1m+++ b/Form2.cs[m
+[36m@@ -21,7 +21,7 @@[m [mnamespace ProyWinc_Sem01[m
+         {[m
+             if(lstItem.Items.IndexOf(txtItem.Text.Trim())>=0| txtItem.Text.Trim()==String.Empty)[m
+             {[m
+[31m-                MessageBox.Show("El elemento ya existe o es un a cadena en blanco", "Error",[m
+[32m+[m[32m                MessageBox.Show("El elemento ya existe o es un a cadena en negro", "Error",[m
+                     MessageBoxButtons.OK, MessageBoxIcon.Error);[m
+                 txtItem.SelectAll();//selecciona todo el texto de un textbox[m
+             }[m
+[1mdiff --git a/bin/Debug/ProyWinc_Sem01.exe b/bin/Debug/ProyWinc_Sem01.exe[m
+[1mindex 9d3487c..891cae9 100644[m
+Binary files a/bin/Debug/ProyWinc_Sem01.exe and b/bin/Debug/ProyWinc_Sem01.exe differ
+[1mdiff --git a/bin/Debug/ProyWinc_Sem01.pdb b/bin/Debug/ProyWinc_Sem01.pdb[m
+[1mindex 5c26e63..b90dd8f 100644[m
+Binary files a/bin/Debug/ProyWinc_Sem01.pdb and b/bin/Debug/ProyWinc_Sem01.pdb differ
+[1mdiff --git a/obj/Debug/ProyWinc_Sem01.exe b/obj/Debug/ProyWinc_Sem01.exe[m
+[1mindex 9d3487c..891cae9 100644[m
+Binary files a/obj/Debug/ProyWinc_Sem01.exe and b/obj/Debug/ProyWinc_Sem01.exe differ
+[1mdiff --git a/obj/Debug/ProyWinc_Sem01.pdb b/obj/Debug/ProyWinc_Sem01.pdb[m
+[1mindex 5c26e63..b90dd8f 100644[m
+Binary files a/obj/Debug/ProyWinc_Sem01.pdb and b/obj/Debug/ProyWinc_Sem01.pdb differ
