@@ -1,0 +1,11 @@
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\bin\Debug\ProyWinc_Sem01.exe.config
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\bin\Debug\ProyWinc_Sem01.exe
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\bin\Debug\ProyWinc_Sem01.pdb
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.csprojAssemblyReference.cache
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.Form1.resources
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.Properties.Resources.resources
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.csproj.GenerateResource.cache
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.csproj.CoreCompileInputs.cache
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.exe
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.pdb
+C:\Programacion\Isil2020-02\Aplicaciones1\Clase1\ProyWinc_Sem01\ProyWinc_Sem01\obj\Debug\ProyWinc_Sem01.Form2.resources
